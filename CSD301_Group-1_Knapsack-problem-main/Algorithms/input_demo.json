@@ -1,0 +1,1 @@
+{"algorithm": "Dynamic Programing", "maximum weight": 50, "time out": 10.0, "table": {"Weight": [10, 20, 30, 5], "Price": [50, 100, 120, 500]}}
