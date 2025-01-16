@@ -56,7 +56,7 @@ Based on the observation of the data we preprocess the input data. Following bel
 
 Below is flowchart for method 2:
 
-![img](.CSD301_Group-1_Knapsack-problem-main/Images/data_preprocessing.png)
+![img](./CSD301_Group-1_Knapsack-problem-main/Images/data_preprocessing.png)
 
 **Time Complexity:** O(n.log(n))
 
